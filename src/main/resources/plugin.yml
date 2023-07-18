@@ -1,0 +1,17 @@
+name: Crok'Speedrun
+version : 1.0
+author : Crokmoo
+main : fk.crokmoo.speedrun.Main
+
+commands :
+  aide:
+    description: Résume tout si besoin d'aide :D
+    permission: aide.use
+
+  join:
+    description: Fait rejoindre les joueurs au monde Speedrun
+    permission: join.use
+
+  regen:
+    description: Régénère le monde speedrun
+    permission: regen.use
