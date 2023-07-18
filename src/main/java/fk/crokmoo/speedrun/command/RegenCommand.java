@@ -1,6 +1,5 @@
 package fk.crokmoo.speedrun.command;
 
-import fk.crokmoo.speedrun.Main;
 import org.apache.commons.io.FileUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
